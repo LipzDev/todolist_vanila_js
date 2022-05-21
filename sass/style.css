@@ -1,0 +1,39 @@
+body {
+  background-color: #363636;
+}
+
+h1 {
+  color: white;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  color: white;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+ul input[type="checkbox"] {
+  cursor: pointer;
+}
+
+ul span {
+  padding: 10px 20px 10px 10px;
+}
+
+ul strike {
+  padding: 10px 20px 10px 10px;
+}
+
+ul button {
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
